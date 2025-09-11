@@ -1,5 +1,5 @@
 # 💫 About Me:
-I`m currently learning react js.
+I am a junior Frontend Developer with a Bachelor’s degree in Computer Engineering and a strong passion for creating engaging digital experiences. My skills include HTML, CSS, JavaScript, Git, Tailwind CSS, React.js, and Next.js, which I use to build responsive and visually appealing web applications.
 
 
 # 💻 Tech Stack:
