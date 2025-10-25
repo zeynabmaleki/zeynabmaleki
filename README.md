@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **zeynabmalekirad@gmail.com**
 
+- Visit my [portfolio](https://zeynabmaleki-portfolio.netlify.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
