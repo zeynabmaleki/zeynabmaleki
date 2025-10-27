@@ -1,9 +1,9 @@
 <h3 align="center">I am a Frontend Developer with a Bachelor’s degree in Computer Engineering and a strong passion for creating engaging digital experiences. My skills include HTML, CSS, JavaScript, typescript, Git, Tailwind CSS, React.js, and Next.js, which I use to build responsive and visually appealing web applications.</h3>
 
-- 🔭 I’m currently working on [chichi food ecommerce website](https://github.com/zeynabmaleki/nextjs-app)
-  
 - Visit my [portfolio](https://zeynabmaleki-portfolio.netlify.app)
 
+- 🔭 I’m currently working on [chichi food ecommerce website](https://github.com/zeynabmaleki/nextjs-app)
+  
 - 📫 How to reach me **zeynabmalekirad@gmail.com**
 
 
