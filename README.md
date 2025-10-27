@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [chichi food ecommerce website](https://github.com/zeynabmaleki/nextjs-app)
   
-- 📫 How to reach me **09120725736** and **zeynabmalekirad@gmail.com** 
+- 📫 How to reach me:  **09120725736**  and  **zeynabmalekirad@gmail.com** 
 
 
 <h3 align="left">Languages and Tools:</h3>
